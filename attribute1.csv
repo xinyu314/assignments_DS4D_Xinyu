@@ -6,43 +6,43 @@ Canada , Chile,North America; South America
 EU , Palestinian Authority,Europe; Middle East
 EU , Faroe Islands,Europe
 Canada , Israel,North America; Middle East
-European Economic Area (EEA), ,Europe
+European Economic Area (EEA),European Economic Area (EEA),Europe
 Faroe Islands , Norway,Europe
 Faroe Islands , Switzerland,Europe
 Faeroe Islands , Iceland,Europe
 EU , Turkey,Europe
 EU , Albania,Europe
-EC Treaty, ,Europe
-Common Market for Eastern and Southern Africa (COMESA), ,Africa
-North American Free Trade Agreement (NAFTA), ,North America
-South Asian Preferential Trade Arrangement (SAPTA), ,West Asia
+EC Treaty,EC Treaty,Europe
+Common Market for Eastern and Southern Africa (COMESA),Common Market for Eastern and Southern Africa (COMESA),Africa
+North American Free Trade Agreement (NAFTA),North American Free Trade Agreement (NAFTA),North America
+South Asian Preferential Trade Arrangement (SAPTA),South Asian Preferential Trade Arrangement (SAPTA),West Asia
 EFTA , Israel,Europe; Middle East
-ASEAN Free Trade Area (AFTA), ,East Asia
-Andean Community (CAN), ,South America
-Economic Cooperation Organization (ECO), ,Middle East; West Asia; Europe
+ASEAN Free Trade Area (AFTA),ASEAN Free Trade Area (AFTA),East Asia
+Andean Community (CAN),Andean Community (CAN),South America
+Economic Cooperation Organization (ECO),Economic Cooperation Organization (ECO),Middle East; West Asia; Europe
 EFTA , Turkey,Europe
-Southern Common Market (MERCOSUR), ,South America
+Southern Common Market (MERCOSUR),Southern Common Market (MERCOSUR),South America
 Turkey , Syria,Middle East; Europe
 Lao People's Democratic Republic , Thailand,East Asia
 US , Israel,Middle East; North America
 Australia , New Zealand (ANZCERTA),Oceania
-Latin American Integration Association (LAIA), ,South America; Caribbean; North America
-South Pacific Regional Trade and Economic Cooperation Agreement (SPARTECA), ,Oceania
+Latin American Integration Association (LAIA),Latin American Integration Association (LAIA),South America; Caribbean; North America
+South Pacific Regional Trade and Economic Cooperation Agreement (SPARTECA),South Pacific Regional Trade and Economic Cooperation Agreement (SPARTECA),Oceania
 EU , Syria,Europe; Middle East
 Australia , Papua New Guinea (PATCRA),Oceania
-Asia Pacific Trade Agreement (APTA), ,West Asia; East Asia
-Caribbean Community and Common Market (CARICOM), ,Caribbean; Central America; South America
+Asia Pacific Trade Agreement (APTA),Asia Pacific Trade Agreement (APTA),West Asia; East Asia
+Caribbean Community and Common Market (CARICOM),Caribbean Community and Common Market (CARICOM),Caribbean; Central America; South America
 EU , Norway,Europe
 EFTA , Lebanon,Europe; Middle East
 EU , Iceland,Europe
 EU , Switzerland ,Europe
-Global System of Trade Preferences among Developing Countries (GSTP), ,Africa; South America; West Asia; Caribbean; East Asia; Middle East; North America; Central America
-Protocol on Trade Negotiations (PTN), ,West Asia; South America; Africa; Middle East; East Asia; North America; Europe
-EU – Overseas Countries and Territories (OCT), ,Caribbean; Europe; Africa; South America; Oceania; North America
+Global System of Trade Preferences among Developing Countries (GSTP),Global System of Trade Preferences among Developing Countries (GSTP),Africa; South America; West Asia; Caribbean; East Asia; Middle East; North America; Central America
+Protocol on Trade Negotiations (PTN),Protocol on Trade Negotiations (PTN),West Asia; South America; Africa; Middle East; East Asia; North America; Europe
+EU – Overseas Countries and Territories (OCT),EU – Overseas Countries and Territories (OCT),Caribbean; Europe; Africa; South America; Oceania; North America
 EFTA , Accession of Iceland,Europe
-Tripartite Agreement, ,Africa; West Asia; Europe
-Central American Common Market (CACM), ,Central America
-European Free Trade Association (EFTA), ,Europe
+Tripartite Agreement,Tripartite Agreement,Africa; West Asia; Europe
+Central American Common Market (CACM),Central American Common Market (CACM),Central America
+European Free Trade Association (EFTA),European Free Trade Association (EFTA),Europe
 Pakistan , China,East Asia; West Asia
 Pan,Arab Free Trade Area (PAFTA),Middle East; Africa
 EU , Montenegro,Europe
@@ -55,7 +55,7 @@ Canada , Rep. of Korea,North America; East Asia
 ASEAN ," Korea, Republic of",East Asia
 Japan , Viet Nam,East Asia
 Japan , Indonesia,East Asia
-Gulf Cooperation Council (GCC), ,Middle East
+Gulf Cooperation Council (GCC),Gulf Cooperation Council (GCC),Middle East
 India , Japan,West Asia; East Asia
 Japan , Australia,Oceania; East Asia
 ASEAN , Japan,East Asia
@@ -69,9 +69,9 @@ US , Oman,Middle East; North America
 EU , Algeria,Africa; Europe
 Malaysia , Australia,Oceania; East Asia
 Pakistan , Malaysia,East Asia; West Asia
-South Asian Free Trade Agreement (SAFTA), ,West Asia
+South Asian Free Trade Agreement (SAFTA),South Asian Free Trade Agreement (SAFTA),West Asia
 Panama , Chile,South America; Central America
-African Common Market, ,Africa
+African Common Market,African Common Market,Africa
 Albania , Bosnia and Herzegovina,Europe
 Albania , Bulgaria,Europe
 Albania , Former Yugoslav Republic of Macedonia,Europe
@@ -80,10 +80,10 @@ Albania , Romania,Europe
 US , Bahrain,Middle East; North America
 Albania , Serbia and Montenegro,Europe
 Albania , UNMIC/Kosovo,Europe
-Arab Common Market, ,Africa; Middle East
-Arusha  Agreement, ,Europe; Africa
+Arab Common Market,Arab Common Market,Africa; Middle East
+Arusha  Agreement,Arusha  Agreement,Europe; Africa
 Australia , New Zealand Free Trade Agreement,Oceania
-Borneo Free Trade Area, ,
+Borneo Free Trade Area,Borneo Free Trade Area,
 Bulgaria , Bosnia and Herzegovina,Europe
 Bulgaria , Estonia,Europe
 Bulgaria , Former Yugoslav Republic of Macedonia,Europe
@@ -96,9 +96,9 @@ Bulgaria , Slovak Republic Free Trade Agreement,Europe
 Bulgaria , Slovenia,Europe
 Bulgaria , Turkey,Europe
 Canada , US Free Trade Agreement (CUSFTA),North America
-Caribbean Free Trade Association (CARIFTA), ,Caribbean; South America
-Central American Free Trade Area, ,Central America
-Central European Free Trade Agreement (CEFTA), ,Europe
+Caribbean Free Trade Association (CARIFTA),Caribbean Free Trade Association (CARIFTA),Caribbean; South America
+Central American Free Trade Area,Central American Free Trade Area,Central America
+Central European Free Trade Agreement (CEFTA),Central European Free Trade Agreement (CEFTA),Europe
 EFTA ," Korea, Republic of",Europe; East Asia
 Central European Free Trade Agreement (CEFTA) , Accession of Bulgaria,Europe
 Central European Free Trade Agreement (CEFTA) , Accession of Romania,Europe
@@ -185,7 +185,7 @@ Finland , Latvia Protocol,Europe
 Finland , Lithuania Protocol,Europe
 Former Yugoslav Republic of Macedonia  , Bosnia and Herzegovina,Europe
 Ghana , Upper Volta Trade Agreement,Africa
-Gulf Cooperation Council (GCC), ,Middle East
+Gulf Cooperation Council (GCC),Gulf Cooperation Council (GCC),Middle East
 Hungary , Estonia,Europe
 Hungary , Israel,Europe; Middle East
 Thailand , New Zealand,Oceania; East Asia
@@ -194,7 +194,7 @@ Hungary , Lithuania,Europe
 Hungary , Slovenia Free Trade Agreement,Europe
 Hungary , Turkey,Europe
 Ireland , United Kingdom Free Trade Area,Europe
-Latin American Free Trade Area (LAFTA), ,South America; North America
+Latin American Free Trade Area (LAFTA),Latin American Free Trade Area (LAFTA),South America; North America
 Latvia , Norway Free Trade Agreement,Europe
 Latvia , Sweden Free Trade Agreement,Europe
 Latvia , Switzerland Free Trade Agreement,Europe
@@ -240,12 +240,12 @@ Turkey , Latvia,Europe
 Turkey , Lithuania,Europe
 Turkey , Poland,Europe
 Turkey , Slovenia,Europe
-Yaoundé I, ,Europe; Africa
-Yaoundé II, ,Europe; Africa
-First Convention of Lomé, ,Caribbean; Europe; Africa; Oceania; South America
-Second Convention of Lomé, ,Caribbean; Europe; Africa; Oceania; South America
-Economic Community of West African States (ECOWAS), ,Africa
-Third Convention of Lomé, ,Caribbean; Africa; Oceania; Europe; South America
+Yaoundé I,Yaoundé I,Europe; Africa
+Yaoundé II,Yaoundé II,Europe; Africa
+First Convention of Lomé,First Convention of Lomé,Caribbean; Europe; Africa; Oceania; South America
+Second Convention of Lomé,Second Convention of Lomé,Caribbean; Europe; Africa; Oceania; South America
+Economic Community of West African States (ECOWAS),Economic Community of West African States (ECOWAS),Africa
+Third Convention of Lomé,Third Convention of Lomé,Caribbean; Africa; Oceania; Europe; South America
 Panama  , Dominican Republic,Caribbean; Central America
 EU , San Marino,Europe
 India , Afghanistan,West Asia
@@ -290,17 +290,17 @@ Ukraine , Tajikistan,Commonwealth of Independent States (CIS)
 Ukraine ,Turkmenistan,Commonwealth of Independent States (CIS)
 Thailand , Australia,Oceania; East Asia
 Ukraine , Uzbekistan,Commonwealth of Independent States (CIS)
-Common Economic Zone (CEZ), ,Commonwealth of Independent States (CIS)
+Common Economic Zone (CEZ),Common Economic Zone (CEZ),Commonwealth of Independent States (CIS)
 Ukraine , Russian Federation,Commonwealth of Independent States (CIS)
-Pacific Island Countries Trade Agreement (PICTA), ,Oceania
-Agadir Agreement, ,Africa; Middle East
+Pacific Island Countries Trade Agreement (PICTA),Pacific Island Countries Trade Agreement (PICTA),Oceania
+Agadir Agreement,Agadir Agreement,Africa; Middle East
 EFTA , Albania,Europe
 EFTA , Serbia,Europe
 EFTA , Ukraine,Europe; Commonwealth of Independent States (CIS)
 EU , CARIFORUM States EPA,Caribbean; Europe; Central America; South America
 Canada , Panama,North America; Central America
 US , Australia,Oceania; North America
-GUAM, ,Commonwealth of Independent States (CIS)
+GUAM,GUAM,Commonwealth of Independent States (CIS)
 EFTA , SACU,Africa; Europe
 Japan , Philippines,East Asia
 EU , Côte d'Ivoire,Europe; Africa
@@ -332,7 +332,7 @@ Canada , Ukraine,North America; Commonwealth of Independent States (CIS)
 "Korea, Republic of ",  Colombia,South America; East Asia
 China , Rep. of Korea,East Asia
 "Korea, Republic of ", Turkey,East Asia; Europe
-Central European Free Trade Agreement (CEFTA) 2006, ,Europe; Commonwealth of Independent States (CIS)
+Central European Free Trade Agreement (CEFTA) 2006,Central European Free Trade Agreement (CEFTA) 2006,Europe; Commonwealth of Independent States (CIS)
 EU , Egypt,Europe; Africa
 Turkey , Montenegro,Europe
 Rep. of Korea , Viet Nam,East Asia
@@ -344,11 +344,11 @@ Costa Rica , Peru,Central America; South America
 Panama , Peru,Central America; South America
 "Hong Kong, China ", Chile,South America; East Asia
 Southern Common Market (MERCOSUR) , Southern African Customs Union (SACU),South America; Africa
-Southern African Development Community (SADC), ,Africa
+Southern African Development Community (SADC),Southern African Development Community (SADC),Africa
 Colombia ," Northern Triangle (El Salvador, Guatemala, Honduras)",South America; Central America
 EU , Papua New Guinea / Fiji,Europe; Oceania
 Japan , Peru,East Asia; South America
-Treaty on a Free Trade Area between members of the Commonwealth of Independent States (CIS), ,Commonwealth of Independent States (CIS)
+Treaty on a Free Trade Area between members of the Commonwealth of Independent States (CIS),Treaty on a Free Trade Area between members of the Commonwealth of Independent States (CIS),Commonwealth of Independent States (CIS)
 Dominican Republic , Central America,Central America; Caribbean
 EFTA , Montenegro,Europe
 EFTA , Central America (Costa Rica and Panama),Central America; Europe
@@ -375,10 +375,10 @@ Ukraine , Montenegro,Europe; Commonwealth of Independent States (CIS)
 India , Thailand,West Asia; East Asia
 New Zealand , Chinese Taipei,East Asia; Oceania
 El Salvador , Cuba,Caribbean; Central America
-Pacific Alliance, ,South America; North America
+Pacific Alliance,Pacific Alliance,South America; North America
 Singapore , Chinese Taipei,East Asia
 Armenia , Moldova,Commonwealth of Independent States (CIS)
-Eurasian Economic Union (EAEU), ,Commonwealth of Independent States (CIS)
+Eurasian Economic Union (EAEU),Eurasian Economic Union (EAEU),Commonwealth of Independent States (CIS)
 Eurasian Economic Union (EAEU) , Accession of Armenia,Commonwealth of Independent States (CIS)
 Canada , Honduras,North America; Central America
 Gulf Cooperation Council (GCC) , Singapore,Middle East; East Asia
@@ -405,7 +405,7 @@ Turkey , Croatia,Europe
 EU , Lebanon,Europe; Middle East
 EFTA , Singapore,Europe; East Asia
 Canada , Costa Rica,North America; Central America
-Southern African Customs Union (SACU), ,Africa
+Southern African Customs Union (SACU),Southern African Customs Union (SACU),Africa
 EU , Croatia,Europe
 EU , Jordan,Europe; Middle East
 Japan , Singapore,East Asia
@@ -433,19 +433,19 @@ Kyrgyz Republic , Armenia,Commonwealth of Independent States (CIS)
 EU , South Africa,Europe; Africa
 EU , Morocco,Europe; Africa
 EU , Israel,Europe; Middle East
-East African Community (EAC), ,Africa
-Economic and Monetary Community of Central Africa (CEMAC), ,Africa
+East African Community (EAC),East African Community (EAC),Africa
+Economic and Monetary Community of Central Africa (CEMAC),Economic and Monetary Community of Central Africa (CEMAC),Africa
 EFTA , Morocco,Europe; Africa
-West African Economic and Monetary Union (WAEMU), ,Africa
-Melanesian Spearhead Group (MSG), ,Oceania
+West African Economic and Monetary Union (WAEMU),West African Economic and Monetary Union (WAEMU),Africa
+Melanesian Spearhead Group (MSG),Melanesian Spearhead Group (MSG),Oceania
 India , Singapore,West Asia; East Asia
-Commonwealth of Independent States (CIS), ,Commonwealth of Independent States (CIS)
+Commonwealth of Independent States (CIS),Commonwealth of Independent States (CIS),Commonwealth of Independent States (CIS)
 Kyrgyz Republic , Kazakhstan,Commonwealth of Independent States (CIS)
 EFTA , Palestinian Authority,Europe; Middle East
 Kyrgyz Republic , Moldova,Commonwealth of Independent States (CIS)
 Kyrgyz Republic , Russian Federation,Commonwealth of Independent States (CIS)
 Kyrgyz Republic , Ukraine,Commonwealth of Independent States (CIS)
 Kyrgyz Republic , Uzbekistan,Commonwealth of Independent States (CIS)
-Eurasian Economic Community (EAEC), ,Commonwealth of Independent States (CIS)
+Eurasian Economic Community (EAEC),Eurasian Economic Community (EAEC),Commonwealth of Independent States (CIS)
 EU , Tunisia,Europe; Africa
 Turkey , Israel,Middle East; Europe
