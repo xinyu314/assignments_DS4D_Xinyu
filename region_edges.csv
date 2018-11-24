@@ -1,451 +1,450 @@
-,Source,Target
-0,Japan , Thailand
-1,Panama , Singapore
-2,EU , Andorra
-3,Canada , Chile
-4,EU , Palestinian Authority
-5,EU , Faroe Islands
-6,Canada , Israel
-7,European Economic Area (EEA),European Economic Area (EEA)
-8,Faroe Islands , Norway
-9,Faroe Islands , Switzerland
-10,Faeroe Islands , Iceland
-11,EU , Turkey
-12,EU , Albania
-13,EC Treaty,EC Treaty
-14,Common Market for Eastern and Southern Africa (COMESA),Common Market for Eastern and Southern Africa (COMESA)
-15,North American Free Trade Agreement (NAFTA),North American Free Trade Agreement (NAFTA)
-16,South Asian Preferential Trade Arrangement (SAPTA),South Asian Preferential Trade Arrangement (SAPTA)
-17,EFTA , Israel
-18,ASEAN Free Trade Area (AFTA),ASEAN Free Trade Area (AFTA)
-19,Andean Community (CAN),Andean Community (CAN)
-20,Economic Cooperation Organization (ECO),Economic Cooperation Organization (ECO)
-21,EFTA , Turkey
-22,Southern Common Market (MERCOSUR),Southern Common Market (MERCOSUR)
-23,Turkey , Syria
-24,Lao People's Democratic Republic , Thailand
-25,US , Israel
-26,Australia , New Zealand (ANZCERTA)
-27,Latin American Integration Association (LAIA),Latin American Integration Association (LAIA)
-28,South Pacific Regional Trade and Economic Cooperation Agreement (SPARTECA),South Pacific Regional Trade and Economic Cooperation Agreement (SPARTECA)
-29,EU , Syria
-30,Australia , Papua New Guinea (PATCRA)
-31,Asia Pacific Trade Agreement (APTA),Asia Pacific Trade Agreement (APTA)
-32,Caribbean Community and Common Market (CARICOM),Caribbean Community and Common Market (CARICOM)
-33,EU , Norway
-34,EFTA , Lebanon
-35,EU , Iceland
-36,EU , Switzerland 
-37,Global System of Trade Preferences among Developing Countries (GSTP),Global System of Trade Preferences among Developing Countries (GSTP)
-38,Protocol on Trade Negotiations (PTN),Protocol on Trade Negotiations (PTN)
-39,EU – Overseas Countries and Territories (OCT),EU – Overseas Countries and Territories (OCT)
-40,EFTA , Accession of Iceland
-41,Tripartite Agreement,Tripartite Agreement
-42,Central American Common Market (CACM),Central American Common Market (CACM)
-43,European Free Trade Association (EFTA),European Free Trade Association (EFTA)
-44,Pakistan , China
-45,Pan,Arab Free Trade Area (PAFTA)
-46,EU , Montenegro
-47,Australia , China
-48,Australia , Chile
-49,EFTA , Canada
-50,Canada , Colombia
-51,EU ," Korea, Republic of"
-52,Canada , Rep. of Korea
-53,ASEAN ," Korea, Republic of"
-54,Japan , Viet Nam
-55,Japan , Indonesia
-56,Gulf Cooperation Council (GCC),Gulf Cooperation Council (GCC)
-57,India , Japan
-58,Japan , Australia
-59,ASEAN , Japan
-60,EFTA , Colombia
-61,EFTA , Peru
-62,Japan , Switzerland
-63,US , Peru
-64,US , Panama
-65,US , Oman
-66,"Korea, Republic of ", US
-67,EU , Algeria
-68,Malaysia , Australia
-69,Pakistan , Malaysia
-70,South Asian Free Trade Agreement (SAFTA),South Asian Free Trade Agreement (SAFTA)
-71,Panama , Chile
-72,African Common Market,African Common Market
-73,Albania , Bosnia and Herzegovina
-74,Albania , Bulgaria
-75,Albania , Former Yugoslav Republic of Macedonia
-76,Albania , Moldova
-77,Albania , Romania
-78,US , Bahrain
-79,Albania , Serbia and Montenegro
-80,Albania , UNMIC/Kosovo
-81,Arab Common Market,Arab Common Market
-82,Arusha  Agreement,Arusha  Agreement
-83,Australia , New Zealand Free Trade Agreement
-84,Borneo Free Trade Area,Borneo Free Trade Area
-85,Bulgaria , Bosnia and Herzegovina
-86,Bulgaria , Estonia
-87,Bulgaria , Former Yugoslav Republic of Macedonia
-88,Bulgaria , Israel
-89,Costa Rica , Mexico
-90,Bulgaria , Latvia
-91,Bulgaria , Lithuania
-92,Bulgaria , Serbia and Montenegro
-93,Bulgaria , Slovak Republic Free Trade Agreement
-94,Bulgaria , Slovenia
-95,Bulgaria , Turkey
-96,Canada , US Free Trade Agreement (CUSFTA)
-97,Caribbean Free Trade Association (CARIFTA),Caribbean Free Trade Association (CARIFTA)
-98,Central American Free Trade Area,Central American Free Trade Area
-99,Central European Free Trade Agreement (CEFTA),Central European Free Trade Agreement (CEFTA)
-100,EFTA ," Korea, Republic of"
-101,Central European Free Trade Agreement (CEFTA) , Accession of Bulgaria
-102,Central European Free Trade Agreement (CEFTA) , Accession of Romania
-103,Central European Free Trade Agreement (CEFTA) , Accession of Slovenia
-104,Croatia , Albania
-105,Croatia , Bosnia and Herzegovina
-106,Croatia , Former Yugoslav Republic of Macedonia
-107,Croatia , Serbia and Montenegro
-108,Czech Republic , Bulgaria Free Trade Agreement
-109,Czech Republic , Estonia
-110,Czech Republic , Israel
-111,Egypt , Turkey
-112,Japan , Malaysia
-113,Czech Republic , Latvia
-114,Czech Republic , Lithuania
-115,Czech Republic , Romania Free Trade Agreement
-116,Czech Republic , Slovak Republic Customs Union
-117,Czech Republic , Slovenia
-118,Czech Republic , Turkey
-119,EC , Algeria
-120,EC , Austria Agreement of 1972
-121,EC , Bulgaria Europe Agreement
-122,EC , Bulgaria Interim Agreement
-123,Jordan , Singapore
-124,EC , Cyprus Association Agreement
-125,EC , Czech and Slovak Federal Republic Interim Agreement
-126,EC , Czech Republic Europe Agreement
-127,EC , Egypt Agreement of 1972
-128,EC , Egypt Cooperation Agreement
-129,EC , Estonia Agreement
-130,EC , Faeroe Islands Agreement of 1992
-131,EC , Finland Agreement
-132,EC , Greece Additional Protocol
-133,EEC , Greece Association Agreement
-134,Mexico , Northern Triangle
-135,EC , Hungary Europe Agreement
-136,EC , Hungary Interim Agreement of 1991
-137,EC , Israel Agreement of 1970
-138,EC , Latvia Agreement
-139,EC , Lebanon Cooperation Agreement
-140,EC , Lithuania
-141,EC , Malta Association Agreement
-142,EC , Morocco Association Agreement of 1969
-143,EC , Poland Europe Agreement
-144,EC , Poland Interim Agreement of 1991
-145,Dominican Republic , Central America 
-146,EC , Portugal Agreement of 1972
-147,EC , Romania Europe Agreement
-148,EC , Romania Interim Agreement
-149,EC , Slovak Republic Europe Agreement
-150,EC , Slovenia Cooperation Agreement
-151,EC , Slovenia Europe Agreement
-152,EC , Slovenia Interim Agreement
-153,EC , Spain Agreement of 1970
-154,EC , Sweden Agreement
-155,EC , Syria Interim Agreement of 1977
-156,"Korea, Republic of ", Singapore
-157,EC , Tunisia Association Agreement of 1969
-158,EC , Turkey Additional Protocol
-159,EEC , Turkey Association Agreement of 1963
-160,EC , Turkey Association Agreement of 1973
-161,EFTA , Bulgaria
-162,EFTA , Czechoslovakia
-163,EFTA , Estonia Free Trade Agreement
-164,EFTA , Hungary Agreement
-165,EFTA , Latvia
-166,EFTA , Lithuania
-167,Turkey , Morocco
-168,EFTA , Poland Agreement
-169,EFTA , Romania Free Trade Agreement
-170,EFTA , Slovenia
-171,EFTA , Spain Agreement
-172,El Salvador , Nicaragua Free Trade Area
-173,Equatorial Customs Union , Cameroon Association
-174,Estonia , Faeroe Islands
-175,Estonia , Latvia 
-176,Estonia , Norway Free Trade Agreement
-177,Estonia , Sweden Free Trade Agreement
-178,US , Morocco
-179,Estonia , Switzerland Free Trade Agreement
-180,Estonia , Ukraine
-181,Finland , Estonia Protocol
-182,Finland , Latvia Protocol
-183,Finland , Lithuania Protocol
-184,Former Yugoslav Republic of Macedonia  , Bosnia and Herzegovina
-185,Ghana , Upper Volta Trade Agreement
-186,Gulf Cooperation Council (GCC),Gulf Cooperation Council (GCC)
-187,Hungary , Estonia
-188,Hungary , Israel
-189,Thailand , New Zealand
-190,Hungary , Latvia
-191,Hungary , Lithuania
-192,Hungary , Slovenia Free Trade Agreement
-193,Hungary , Turkey
-194,Ireland , United Kingdom Free Trade Area
-195,Latin American Free Trade Area (LAFTA),Latin American Free Trade Area (LAFTA)
-196,Latvia , Norway Free Trade Agreement
-197,Latvia , Sweden Free Trade Agreement
-198,Latvia , Switzerland Free Trade Agreement
-199,Lithuania , Norway Free Trade Agreement
-200,Mexico , Nicaragua
-201,Lithuania , Sweden Free Trade Agreement
-202,Lithuania , Switzerland Free
-203,Moldova , Bosnia and Herzegovina
-204,Moldova , Bulgaria
-205,Moldova , Croatia
-206,Moldova , Former Yugoslav Republic of Macedonia
-207,Moldova , Serbia and Montenegro
-208,Poland , Faeroe Islands
-209,Poland , Israel
-210,Poland , Latvia
-211,EU , Chile
-212,Poland , Lithuania
-213,Romania , Bosnia and Herzegovina
-214,Romania , Former Yugoslav Republic of Macedonia
-215,Romania , Israel
-216,Romania , Moldova
-217,Romania , Serbia and Montenegro
-218,Romania , Turkey
-219,Slovak Republic , Estonia
-220,Slovak Republic , Israel
-221,Slovak Republic , Latvia
-222,Chile , Japan
-223,Turkey , Palestinian Authority
-224,Slovak Republic , Lithuania
-225,Slovak Republic , Romania Free Trade Agreement
-226,Slovak Republic , Turkey
-227,Slovenia , Bosnia and Herzegovina
-228,Slovenia , Croatia
-229,Slovenia , Estonia
-230,Slovenia , Former Yugoslav Republic of Macedonia
-231,Slovenia , Israel
-232,Slovenia , Latvia
-233,Slovenia , Lithuania
-234,Turkey , Tunisia
-235,South Africa , Southern Rhodesia Customs Union
-236,Turkey , Estonia
-237,Turkey , Latvia
-238,Turkey , Lithuania
-239,Turkey , Poland
-240,Turkey , Slovenia
-241,Yaoundé I,Yaoundé I
-242,Yaoundé II,Yaoundé II
-243,First Convention of Lomé,First Convention of Lomé
-244,Second Convention of Lomé,Second Convention of Lomé
-245,Economic Community of West African States (ECOWAS),Economic Community of West African States (ECOWAS)
-246,Third Convention of Lomé,Third Convention of Lomé
-247,Panama  , Dominican Republic
-248,EU , San Marino
-249,India , Afghanistan
-250,India , Nepal
-251,Guatemala , Chinese Taipei
-252,Panama , Chinese Taipei
-253,ASEAN , Australia 
-254,ASEAN , India
-255,Chile , Malaysia
-256,EFTA , Tunisia
-257,Iceland , China
-258,EFTA , GCC
-259,EU , Eastern and Southern Africa States Interim EPA
-260,"Hong Kong, China ", New Zealand
-261,New Zealand , Malaysia
-262,Peru , Singapore
-263,China , Singapore
-264,Turkey , Jordan
-265,Chile , Colombia
-266,Peru , Chile
-267,Japan , Mexico
-268,MERCOSUR , India
-269,El Salvador, Honduras 
-270,US , Colombia
-271,"Korea, Republic of ", Australia
-272,Turkey , Chile
-273,India , Malaysia
-274,Turkey , Albania
-275,Pakistan , Sri Lanka
-276,India , Bhutan
-277,EU , Bosnia and Herzegovina
-278,Panama , Central America
-279,Iceland , Faroe Islands
-280,Brunei Darussalam , Japan
-281,Canada , Jordan
-282,Ukraine , Azerbaijan
-283,Ukraine , Belarus
-284,Ukraine , Kazakhstan
-285,Ukraine , Former Yugoslav Republic of Macedonia
-286,Ukraine , Moldova
-287,Ukraine , Tajikistan
-288,Ukraine ,Turkmenistan
-289,Thailand , Australia
-290,Ukraine , Uzbekistan
-291,Common Economic Zone (CEZ),Common Economic Zone (CEZ)
-292,Ukraine , Russian Federation
-293,Pacific Island Countries Trade Agreement (PICTA),Pacific Island Countries Trade Agreement (PICTA)
-294,Agadir Agreement,Agadir Agreement
-295,EFTA , Albania
-296,EFTA , Serbia
-297,EFTA , Ukraine
-298,EU , CARIFORUM States EPA
-299,Canada , Panama
-300,US , Australia
-301,GUAM,GUAM
-302,EFTA , SACU
-303,Japan , Philippines
-304,EU , Côte d'Ivoire
-305,Chile , India
-306,Turkey , Serbia
-307,Switzerland , China
-308,Turkey , Georgia
-309,Mauritius , Pakistan
-310,Rep. of Korea , New Zealand
-311,ASEAN , China
-312,Peru ," Korea, Republic of"
-313,Colombia , Mexico
-314,Mexico , Uruguay
-315,Peru , Mexico
-316,China , New Zealand
-317,Peru , China
-318,Nicaragua , Chinese Taipei
-319,Canada , Peru
-320,EU , Central America
-321,China , Costa Rica
-322,EFTA , Chile
-323,Costa Rica , Singapore
-324,EU , Cameroon
-325,EU , Ukraine
-326,Chile , Viet Nam
-327,EFTA ," Hong Kong, China"
-328,EU , Colombia and Peru
-329,Canada , Ukraine
-330,"Korea, Republic of ",  Colombia
-331,China , Rep. of Korea
-332,"Korea, Republic of ", Turkey
-333,Central European Free Trade Agreement (CEFTA) 2006,Central European Free Trade Agreement (CEFTA) 2006
-334,EU , Egypt
-335,Turkey , Montenegro
-336,Rep. of Korea , Viet Nam
-337,EU , Serbia
-338,The Cross,Straits Economic Cooperation Framework Agreement (ECFA)
-339,"Korea, Republic of ", India
-340,EFTA , Bosnia and Herzegovina
-341,Costa Rica , Peru
-342,Panama , Peru
-343,"Hong Kong, China ", Chile
-344,Southern Common Market (MERCOSUR) , Southern African Customs Union (SACU)
-345,Southern African Development Community (SADC),Southern African Development Community (SADC)
-346,Colombia ," Northern Triangle (El Salvador, Guatemala, Honduras)"
-347,EU , Papua New Guinea / Fiji
-348,Japan , Peru
-349,Treaty on a Free Trade Area between members of the Commonwealth of Independent States (CIS),Treaty on a Free Trade Area between members of the Commonwealth of Independent States (CIS)
-350,Dominican Republic , Central America
-351,EFTA , Montenegro
-352,EFTA , Central America (Costa Rica and Panama)
-353,Mexico , Panama
-354,Turkey , Mauritius
-355,Turkey , Malaysia
-356,Armenia , Turkmenistan
-357,Russian Federation , Belarus
-358,Russian Federation , Republic of Moldova
-359,Russian Federation , Azerbaijan
-360,Russian Federation , Kazakhstan
-361,Russian Federation , Tajikistan
-362,Japan , Mongolia
-363,East African Community (EAC) , Accession of Burundi and Rwanda
-364,EU , Georgia
-365,EU , Rep. of  Moldova
-366,Russian Federation , Belarus 
-367,Armenia , Russian Federation
-368,Russian Federation , Serbia
-369,Russian Federation , Uzbekistan
-370,Russian Federation , Turkmenistan
-371,Mexico , Central America
-372,Ukraine , Montenegro
-373,India , Thailand
-374,New Zealand , Chinese Taipei
-375,El Salvador , Cuba
-376,Pacific Alliance,Pacific Alliance
-377,Singapore , Chinese Taipei
-378,Armenia , Moldova
-379,Eurasian Economic Union (EAEU),Eurasian Economic Union (EAEU)
-380,Eurasian Economic Union (EAEU) , Accession of Armenia
-381,Canada , Honduras
-382,Gulf Cooperation Council (GCC) , Singapore
-383,Eurasian Economic Union (EAEU) , Accession of the Kyrgyz Republic
-384,Turkey ," Moldova, Republic of"
-385,EFTA , Philippines
-386,Eurasian Economic Union (EAEU) , Viet Nam
-387,EU , Ghana
-388,Trans,Pacific Partnership
-389,Armenia , Kazakhstan
-390,Trans,Pacific Partnership
-391,Armenia , Ukraine
-392,"Korea, Republic of ", Chile
-393,Central European Free Trade Agreement (CEFTA) , Accession of Croatia
-394,Chile , Central America
-395,EFTA , Egypt
-396,China ," Macao, China"
-397,China ," Hong Kong, China"
-398,US , Singapore
-399,US , Chile
-400,Singapore , Australia
-401,Turkey , Bosnia and Herzegovina
-402,Turkey , Croatia
-403,EU , Lebanon
-404,EFTA , Singapore
-405,Canada , Costa Rica
-406,Southern African Customs Union (SACU),Southern African Customs Union (SACU)
-407,EU , Croatia
-408,EU , Jordan
-409,Japan , Singapore
-410,US , Jordan
-411,India , Sri Lanka
-412,EU , Mexico
-413,EFTA , Jordan
-414,EFTA , Croatia
-415,EU , Former Yugoslav Republic of Macedonia
-416,New Zealand , Singapore
-417,Chile , China
-418,EFTA , Mexico
-419,Chile , Mexico
-420,Israel , Mexico
-421,Georgia , Armenia
-422,Georgia , Azerbaijan
-423,Georgia , Kazakhstan
-424,Georgia , Russian Federation
-425,Georgia , Turkmenistan
-426,Georgia , Ukraine
-427,EFTA , Former Yugoslav Republic of Macedonia
-428,Trans,Pacific Strategic Economic Partnership
-429,Turkey , Former Yugoslav Republic of Macedonia
-430,Kyrgyz Republic , Armenia
-431,EU , South Africa
-432,EU , Morocco
-433,EU , Israel
-434,East African Community (EAC),East African Community (EAC)
-435,Economic and Monetary Community of Central Africa (CEMAC),Economic and Monetary Community of Central Africa (CEMAC)
-436,EFTA , Morocco
-437,West African Economic and Monetary Union (WAEMU),West African Economic and Monetary Union (WAEMU)
-438,Melanesian Spearhead Group (MSG),Melanesian Spearhead Group (MSG)
-439,India , Singapore
-440,Commonwealth of Independent States (CIS),Commonwealth of Independent States (CIS)
-441,Kyrgyz Republic , Kazakhstan
-442,EFTA , Palestinian Authority
-443,Kyrgyz Republic , Moldova
-444,Kyrgyz Republic , Russian Federation
-445,Kyrgyz Republic , Ukraine
-446,Kyrgyz Republic , Uzbekistan
-447,Eurasian Economic Community (EAEC),Eurasian Economic Community (EAEC)
-448,EU , Tunisia
-449,Turkey , Israel
+Source,Target
+East Asia,East Asia
+Central America, East Asia
+Europe,Europe
+North America, South America
+Europe, Middle East
+Europe,Europe
+North America, Middle East
+Europe,Europe
+Europe,Europe
+Europe,Europe
+Europe,Europe
+Europe,Europe
+Europe,Europe
+Europe,Europe
+Africa,Africa
+North America,North America
+West Asia,West Asia
+Europe, Middle East
+East Asia,East Asia
+South America,South America
+Middle East, West Asia
+Europe,Europe
+South America,South America
+Middle East, Europe
+East Asia,East Asia
+Middle East, North America
+Oceania,Oceania
+South America, Caribbean
+Oceania,Oceania
+Europe, Middle East
+Oceania,Oceania
+West Asia, East Asia
+Caribbean, Central America
+Europe,Europe
+Europe, Middle East
+Europe,Europe
+Europe,Europe
+Africa, South America
+West Asia, South America
+Caribbean, Europe
+Europe,Europe
+Africa, West Asia
+Central America,Central America
+Europe,Europe
+East Asia, West Asia
+Middle East, Africa
+Europe,Europe
+Oceania, East Asia
+Oceania, South America
+North America, Europe
+North America, South America
+Europe, East Asia
+North America, East Asia
+East Asia,East Asia
+East Asia,East Asia
+East Asia,East Asia
+Middle East,Middle East
+West Asia, East Asia
+Oceania, East Asia
+East Asia,East Asia
+South America, Europe
+Europe, South America
+East Asia, Europe
+South America, North America
+Central America, North America
+Middle East, North America
+East Asia, North America
+Africa, Europe
+Oceania, East Asia
+East Asia, West Asia
+West Asia,West Asia
+South America, Central America
+Africa,Africa
+Europe,Europe
+Europe,Europe
+Europe,Europe
+Europe, Commonwealth of Independent States (CIS)
+Europe,Europe
+Middle East, North America
+Europe,Europe
+Europe,Europe
+Africa, Middle East
+Europe, Africa
+Oceania,Oceania
+Europe,Europe
+Europe,Europe
+Europe,Europe
+Europe, Middle East
+Central America, North America
+Europe,Europe
+Europe,Europe
+Europe,Europe
+Europe,Europe
+Europe,Europe
+Europe,Europe
+North America,North America
+Caribbean, South America
+Central America,Central America
+Europe,Europe
+Europe, East Asia
+Europe,Europe
+Europe,Europe
+Europe,Europe
+Europe,Europe
+Europe,Europe
+Europe,Europe
+Europe,Europe
+Europe,Europe
+Europe,Europe
+Europe, Middle East
+Africa, Europe
+East Asia,East Asia
+Europe,Europe
+Europe,Europe
+Europe,Europe
+Europe,Europe
+Europe,Europe
+Europe,Europe
+Africa, Europe
+Europe,Europe
+Europe,Europe
+Europe,Europe
+Middle East, East Asia
+Europe,Europe
+Europe,Europe
+Europe,Europe
+Europe, Africa
+Europe, Africa
+Europe,Europe
+Europe,Europe
+Europe,Europe
+Europe,Europe
+Europe,Europe
+Central America, North America
+Europe,Europe
+Europe,Europe
+Europe, Middle East
+Europe,Europe
+Europe, Middle East
+Europe,Europe
+Europe,Europe
+Europe, Africa
+Europe,Europe
+Europe,Europe
+Central America, Caribbean
+Europe,Europe
+Europe,Europe
+Europe,Europe
+Europe,Europe
+Europe,Europe
+Europe,Europe
+Europe,Europe
+Europe,Europe
+Europe,Europe
+Europe,Europe
+East Asia,East Asia
+Europe, Africa
+Europe,Europe
+Europe,Europe
+Europe,Europe
+Europe,Europe
+Europe,Europe
+Europe,Europe
+Europe,Europe
+Europe,Europe
+Europe,Europe
+Africa, Europe
+Europe,Europe
+Europe,Europe
+Europe,Europe
+Europe,Europe
+Central America,Central America
+Africa,Africa
+Europe,Europe
+Europe,Europe
+Europe,Europe
+Europe,Europe
+Africa, North America
+Europe,Europe
+Europe, Commonwealth of Independent States (CIS)
+Europe,Europe
+Europe,Europe
+Europe,Europe
+Europe,Europe
+Africa,Africa
+Middle East,Middle East
+Europe,Europe
+Europe, Middle East
+Oceania, East Asia
+Europe,Europe
+Europe,Europe
+Europe,Europe
+Europe,Europe
+Europe,Europe
+South America, North America
+Europe,Europe
+Europe,Europe
+Europe,Europe
+Europe,Europe
+North America, Central America
+Europe,Europe
+Europe,Europe
+Europe, Commonwealth of Independent States (CIS)
+Europe, Commonwealth of Independent States (CIS)
+Europe, Commonwealth of Independent States (CIS)
+Commonwealth of Independent States (CIS), Europe
+Commonwealth of Independent States (CIS),Commonwealth of Independent States (CIS)
+Europe,Europe
+Middle East, Europe
+Europe,Europe
+Europe, South America
+Europe,Europe
+Europe,Europe
+Europe,Europe
+Middle East, Europe
+Commonwealth of Independent States (CIS), Europe
+Europe,Europe
+Europe,Europe
+Europe,Europe
+Middle East, Europe
+Europe,Europe
+South America, East Asia
+Middle East, Europe
+Europe,Europe
+Europe,Europe
+Europe,Europe
+Europe,Europe
+Europe,Europe
+Europe,Europe
+Europe,Europe
+Middle East, Europe
+Europe,Europe
+Europe,Europe
+Africa, Europe
+Africa,Africa
+Europe,Europe
+Europe,Europe
+Europe,Europe
+Europe,Europe
+Europe,Europe
+Europe, Africa
+Europe, Africa
+Caribbean, Europe
+Caribbean, Europe
+Africa,Africa
+Caribbean, Africa
+Caribbean, Central America
+Europe,Europe
+West Asia,West Asia
+West Asia,West Asia
+East Asia, Central America
+East Asia, Central America
+Oceania, East Asia
+East Asia, West Asia
+South America, East Asia
+Europe, Africa
+East Asia, Europe
+Middle East, Europe
+Europe, Africa
+East Asia, Oceania
+East Asia, Oceania
+South America, East Asia
+East Asia,East Asia
+Middle East, Europe
+South America,South America
+South America,South America
+East Asia, North America
+South America, West Asia
+East Asia, Central America
+South America, North America
+Oceania, East Asia
+South America, Europe
+West Asia, East Asia
+Europe,Europe
+West Asia,West Asia
+West Asia,West Asia
+Europe,Europe
+Central America,Central America
+Europe,Europe
+East Asia,East Asia
+North America, Middle East
+Commonwealth of Independent States (CIS),Commonwealth of Independent States (CIS)
+Commonwealth of Independent States (CIS),Commonwealth of Independent States (CIS)
+Commonwealth of Independent States (CIS),Commonwealth of Independent States (CIS)
+Europe, Commonwealth of Independent States (CIS)
+Commonwealth of Independent States (CIS),Commonwealth of Independent States (CIS)
+Commonwealth of Independent States (CIS),Commonwealth of Independent States (CIS)
+Commonwealth of Independent States (CIS),Commonwealth of Independent States (CIS)
+Oceania, East Asia
+Commonwealth of Independent States (CIS),Commonwealth of Independent States (CIS)
+Commonwealth of Independent States (CIS),Commonwealth of Independent States (CIS)
+Commonwealth of Independent States (CIS),Commonwealth of Independent States (CIS)
+Oceania,Oceania
+Africa, Middle East
+Europe,Europe
+Europe,Europe
+Europe, Commonwealth of Independent States (CIS)
+Caribbean, Europe
+North America, Central America
+Oceania, North America
+Commonwealth of Independent States (CIS),Commonwealth of Independent States (CIS)
+Africa, Europe
+East Asia,East Asia
+Europe, Africa
+South America, West Asia
+Europe,Europe
+East Asia, Europe
+Commonwealth of Independent States (CIS), Europe
+Africa, West Asia
+East Asia, Oceania
+East Asia,East Asia
+East Asia, South America
+South America, North America
+North America, South America
+North America, South America
+East Asia, Oceania
+East Asia, South America
+East Asia, Central America
+North America, South America
+Europe, Central America
+East Asia, Central America
+South America, Europe
+Central America, East Asia
+Europe, Africa
+Europe, Commonwealth of Independent States (CIS)
+South America, East Asia
+East Asia, Europe
+Europe, South America
+North America, Commonwealth of Independent States (CIS)
+South America, East Asia
+East Asia,East Asia
+East Asia, Europe
+Europe, Commonwealth of Independent States (CIS)
+Europe, Africa
+Europe,Europe
+East Asia,East Asia
+Europe,Europe
+East Asia,East Asia
+West Asia, East Asia
+Europe,Europe
+Central America, South America
+Central America, South America
+South America, East Asia
+South America, Africa
+Africa,Africa
+South America, Central America
+Europe, Oceania
+East Asia, South America
+Commonwealth of Independent States (CIS),Commonwealth of Independent States (CIS)
+Central America, Caribbean
+Europe,Europe
+Central America, Europe
+North America, Central America
+Africa, Europe
+East Asia, Europe
+Commonwealth of Independent States (CIS),Commonwealth of Independent States (CIS)
+Commonwealth of Independent States (CIS),Commonwealth of Independent States (CIS)
+Commonwealth of Independent States (CIS),Commonwealth of Independent States (CIS)
+Commonwealth of Independent States (CIS),Commonwealth of Independent States (CIS)
+Commonwealth of Independent States (CIS),Commonwealth of Independent States (CIS)
+Commonwealth of Independent States (CIS),Commonwealth of Independent States (CIS)
+East Asia,East Asia
+Africa,Africa
+Europe, Commonwealth of Independent States (CIS)
+Europe, Commonwealth of Independent States (CIS)
+Commonwealth of Independent States (CIS),Commonwealth of Independent States (CIS)
+Commonwealth of Independent States (CIS),Commonwealth of Independent States (CIS)
+Commonwealth of Independent States (CIS), Europe
+Commonwealth of Independent States (CIS),Commonwealth of Independent States (CIS)
+Commonwealth of Independent States (CIS),Commonwealth of Independent States (CIS)
+Central America, North America
+Europe, Commonwealth of Independent States (CIS)
+West Asia, East Asia
+East Asia, Oceania
+Caribbean, Central America
+South America, North America
+East Asia,East Asia
+Commonwealth of Independent States (CIS),Commonwealth of Independent States (CIS)
+Commonwealth of Independent States (CIS),Commonwealth of Independent States (CIS)
+Commonwealth of Independent States (CIS),Commonwealth of Independent States (CIS)
+North America, Central America
+Middle East, East Asia
+Commonwealth of Independent States (CIS),Commonwealth of Independent States (CIS)
+Commonwealth of Independent States (CIS), Europe
+Europe, East Asia
+Commonwealth of Independent States (CIS), East Asia
+Europe, Africa
+East Asia, North America
+Commonwealth of Independent States (CIS),Commonwealth of Independent States (CIS)
+East Asia, North America
+Commonwealth of Independent States (CIS),Commonwealth of Independent States (CIS)
+South America, East Asia
+Europe,Europe
+South America, Central America
+Africa, Europe
+East Asia,East Asia
+East Asia,East Asia
+East Asia, North America
+South America, North America
+Oceania, East Asia
+Europe,Europe
+Europe,Europe
+Europe, Middle East
+Europe, East Asia
+North America, Central America
+Africa,Africa
+Europe,Europe
+Europe, Middle East
+East Asia,East Asia
+Middle East, North America
+West Asia,West Asia
+Europe, North America
+Europe, Middle East
+Europe,Europe
+Europe,Europe
+Oceania, East Asia
+South America, East Asia
+Europe, North America
+South America, North America
+Middle East, North America
+Commonwealth of Independent States (CIS),Commonwealth of Independent States (CIS)
+Commonwealth of Independent States (CIS),Commonwealth of Independent States (CIS)
+Commonwealth of Independent States (CIS),Commonwealth of Independent States (CIS)
+Commonwealth of Independent States (CIS),Commonwealth of Independent States (CIS)
+Commonwealth of Independent States (CIS),Commonwealth of Independent States (CIS)
+Commonwealth of Independent States (CIS),Commonwealth of Independent States (CIS)
+Europe,Europe
+East Asia, South America
+Europe,Europe
+Commonwealth of Independent States (CIS),Commonwealth of Independent States (CIS)
+Europe, Africa
+Europe, Africa
+Europe, Middle East
+Africa,Africa
+Africa,Africa
+Europe, Africa
+Africa,Africa
+Oceania,Oceania
+West Asia, East Asia
+Commonwealth of Independent States (CIS),Commonwealth of Independent States (CIS)
+Commonwealth of Independent States (CIS),Commonwealth of Independent States (CIS)
+Europe, Middle East
+Commonwealth of Independent States (CIS),Commonwealth of Independent States (CIS)
+Commonwealth of Independent States (CIS),Commonwealth of Independent States (CIS)
+Commonwealth of Independent States (CIS),Commonwealth of Independent States (CIS)
+Commonwealth of Independent States (CIS),Commonwealth of Independent States (CIS)
+Commonwealth of Independent States (CIS),Commonwealth of Independent States (CIS)
+Europe, Africa
+Middle East, Europe
