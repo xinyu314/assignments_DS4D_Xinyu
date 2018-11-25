@@ -1,451 +1,451 @@
-,Source,Target
-0,Japan , Thailand
-1,Panama , Singapore
-2,EU , Andorra
-3,Canada , Chile
-4,EU , Palestinian Authority
-5,EU , Faroe Islands
-6,Canada , Israel
-7,European Economic Area (EEA),European Economic Area (EEA)
-8,Faroe Islands , Norway
-9,Faroe Islands , Switzerland
-10,Faeroe Islands , Iceland
-11,EU , Turkey
-12,EU , Albania
-13,EC Treaty,EC Treaty
-14,Common Market for Eastern and Southern Africa (COMESA),Common Market for Eastern and Southern Africa (COMESA)
-15,North American Free Trade Agreement (NAFTA),North American Free Trade Agreement (NAFTA)
-16,South Asian Preferential Trade Arrangement (SAPTA),South Asian Preferential Trade Arrangement (SAPTA)
-17,EFTA , Israel
-18,ASEAN Free Trade Area (AFTA),ASEAN Free Trade Area (AFTA)
-19,Andean Community (CAN),Andean Community (CAN)
-20,Economic Cooperation Organization (ECO),Economic Cooperation Organization (ECO)
-21,EFTA , Turkey
-22,Southern Common Market (MERCOSUR),Southern Common Market (MERCOSUR)
-23,Turkey , Syria
-24,Lao People's Democratic Republic , Thailand
-25,US , Israel
-26,Australia , New Zealand (ANZCERTA)
-27,Latin American Integration Association (LAIA),Latin American Integration Association (LAIA)
-28,South Pacific Regional Trade and Economic Cooperation Agreement (SPARTECA),South Pacific Regional Trade and Economic Cooperation Agreement (SPARTECA)
-29,EU , Syria
-30,Australia , Papua New Guinea (PATCRA)
-31,Asia Pacific Trade Agreement (APTA),Asia Pacific Trade Agreement (APTA)
-32,Caribbean Community and Common Market (CARICOM),Caribbean Community and Common Market (CARICOM)
-33,EU , Norway
-34,EFTA , Lebanon
-35,EU , Iceland
-36,EU , Switzerland 
-37,Global System of Trade Preferences among Developing Countries (GSTP),Global System of Trade Preferences among Developing Countries (GSTP)
-38,Protocol on Trade Negotiations (PTN),Protocol on Trade Negotiations (PTN)
-39,EU – Overseas Countries and Territories (OCT),EU – Overseas Countries and Territories (OCT)
-40,EFTA , Accession of Iceland
-41,Tripartite Agreement,Tripartite Agreement
-42,Central American Common Market (CACM),Central American Common Market (CACM)
-43,European Free Trade Association (EFTA),European Free Trade Association (EFTA)
-44,Pakistan , China
-45,Pan,Arab Free Trade Area (PAFTA)
-46,EU , Montenegro
-47,Australia , China
-48,Australia , Chile
-49,EFTA , Canada
-50,Canada , Colombia
-51,EU ," Korea, Republic of"
-52,Canada , Rep. of Korea
-53,ASEAN ," Korea, Republic of"
-54,Japan , Viet Nam
-55,Japan , Indonesia
-56,Gulf Cooperation Council (GCC),Gulf Cooperation Council (GCC)
-57,India , Japan
-58,Japan , Australia
-59,ASEAN , Japan
-60,EFTA , Colombia
-61,EFTA , Peru
-62,Japan , Switzerland
-63,US , Peru
-64,US , Panama
-65,US , Oman
-66,"Korea, Republic of ", US
-67,EU , Algeria
-68,Malaysia , Australia
-69,Pakistan , Malaysia
-70,South Asian Free Trade Agreement (SAFTA),South Asian Free Trade Agreement (SAFTA)
-71,Panama , Chile
-72,African Common Market,African Common Market
-73,Albania , Bosnia and Herzegovina
-74,Albania , Bulgaria
-75,Albania , Former Yugoslav Republic of Macedonia
-76,Albania , Moldova
-77,Albania , Romania
-78,US , Bahrain
-79,Albania , Serbia and Montenegro
-80,Albania , UNMIC/Kosovo
-81,Arab Common Market,Arab Common Market
-82,Arusha  Agreement,Arusha  Agreement
-83,Australia , New Zealand Free Trade Agreement
-84,Borneo Free Trade Area,Borneo Free Trade Area
-85,Bulgaria , Bosnia and Herzegovina
-86,Bulgaria , Estonia
-87,Bulgaria , Former Yugoslav Republic of Macedonia
-88,Bulgaria , Israel
-89,Costa Rica , Mexico
-90,Bulgaria , Latvia
-91,Bulgaria , Lithuania
-92,Bulgaria , Serbia and Montenegro
-93,Bulgaria , Slovak Republic Free Trade Agreement
-94,Bulgaria , Slovenia
-95,Bulgaria , Turkey
-96,Canada , US Free Trade Agreement (CUSFTA)
-97,Caribbean Free Trade Association (CARIFTA),Caribbean Free Trade Association (CARIFTA)
-98,Central American Free Trade Area,Central American Free Trade Area
-99,Central European Free Trade Agreement (CEFTA),Central European Free Trade Agreement (CEFTA)
-100,EFTA ," Korea, Republic of"
-101,Central European Free Trade Agreement (CEFTA) , Accession of Bulgaria
-102,Central European Free Trade Agreement (CEFTA) , Accession of Romania
-103,Central European Free Trade Agreement (CEFTA) , Accession of Slovenia
-104,Croatia , Albania
-105,Croatia , Bosnia and Herzegovina
-106,Croatia , Former Yugoslav Republic of Macedonia
-107,Croatia , Serbia and Montenegro
-108,Czech Republic , Bulgaria Free Trade Agreement
-109,Czech Republic , Estonia
-110,Czech Republic , Israel
-111,Egypt , Turkey
-112,Japan , Malaysia
-113,Czech Republic , Latvia
-114,Czech Republic , Lithuania
-115,Czech Republic , Romania Free Trade Agreement
-116,Czech Republic , Slovak Republic Customs Union
-117,Czech Republic , Slovenia
-118,Czech Republic , Turkey
-119,EC , Algeria
-120,EC , Austria Agreement of 1972
-121,EC , Bulgaria Europe Agreement
-122,EC , Bulgaria Interim Agreement
-123,Jordan , Singapore
-124,EC , Cyprus Association Agreement
-125,EC , Czech and Slovak Federal Republic Interim Agreement
-126,EC , Czech Republic Europe Agreement
-127,EC , Egypt Agreement of 1972
-128,EC , Egypt Cooperation Agreement
-129,EC , Estonia Agreement
-130,EC , Faeroe Islands Agreement of 1992
-131,EC , Finland Agreement
-132,EC , Greece Additional Protocol
-133,EEC , Greece Association Agreement
-134,Mexico , Northern Triangle
-135,EC , Hungary Europe Agreement
-136,EC , Hungary Interim Agreement of 1991
-137,EC , Israel Agreement of 1970
-138,EC , Latvia Agreement
-139,EC , Lebanon Cooperation Agreement
-140,EC , Lithuania
-141,EC , Malta Association Agreement
-142,EC , Morocco Association Agreement of 1969
-143,EC , Poland Europe Agreement
-144,EC , Poland Interim Agreement of 1991
-145,Dominican Republic , Central America 
-146,EC , Portugal Agreement of 1972
-147,EC , Romania Europe Agreement
-148,EC , Romania Interim Agreement
-149,EC , Slovak Republic Europe Agreement
-150,EC , Slovenia Cooperation Agreement
-151,EC , Slovenia Europe Agreement
-152,EC , Slovenia Interim Agreement
-153,EC , Spain Agreement of 1970
-154,EC , Sweden Agreement
-155,EC , Syria Interim Agreement of 1977
-156,"Korea, Republic of ", Singapore
-157,EC , Tunisia Association Agreement of 1969
-158,EC , Turkey Additional Protocol
-159,EEC , Turkey Association Agreement of 1963
-160,EC , Turkey Association Agreement of 1973
-161,EFTA , Bulgaria
-162,EFTA , Czechoslovakia
-163,EFTA , Estonia Free Trade Agreement
-164,EFTA , Hungary Agreement
-165,EFTA , Latvia
-166,EFTA , Lithuania
-167,Turkey , Morocco
-168,EFTA , Poland Agreement
-169,EFTA , Romania Free Trade Agreement
-170,EFTA , Slovenia
-171,EFTA , Spain Agreement
-172,El Salvador , Nicaragua Free Trade Area
-173,Equatorial Customs Union , Cameroon Association
-174,Estonia , Faeroe Islands
-175,Estonia , Latvia 
-176,Estonia , Norway Free Trade Agreement
-177,Estonia , Sweden Free Trade Agreement
-178,US , Morocco
-179,Estonia , Switzerland Free Trade Agreement
-180,Estonia , Ukraine
-181,Finland , Estonia Protocol
-182,Finland , Latvia Protocol
-183,Finland , Lithuania Protocol
-184,Former Yugoslav Republic of Macedonia  , Bosnia and Herzegovina
-185,Ghana , Upper Volta Trade Agreement
-186,Gulf Cooperation Council (GCC),Gulf Cooperation Council (GCC)
-187,Hungary , Estonia
-188,Hungary , Israel
-189,Thailand , New Zealand
-190,Hungary , Latvia
-191,Hungary , Lithuania
-192,Hungary , Slovenia Free Trade Agreement
-193,Hungary , Turkey
-194,Ireland , United Kingdom Free Trade Area
-195,Latin American Free Trade Area (LAFTA),Latin American Free Trade Area (LAFTA)
-196,Latvia , Norway Free Trade Agreement
-197,Latvia , Sweden Free Trade Agreement
-198,Latvia , Switzerland Free Trade Agreement
-199,Lithuania , Norway Free Trade Agreement
-200,Mexico , Nicaragua
-201,Lithuania , Sweden Free Trade Agreement
-202,Lithuania , Switzerland Free
-203,Moldova , Bosnia and Herzegovina
-204,Moldova , Bulgaria
-205,Moldova , Croatia
-206,Moldova , Former Yugoslav Republic of Macedonia
-207,Moldova , Serbia and Montenegro
-208,Poland , Faeroe Islands
-209,Poland , Israel
-210,Poland , Latvia
-211,EU , Chile
-212,Poland , Lithuania
-213,Romania , Bosnia and Herzegovina
-214,Romania , Former Yugoslav Republic of Macedonia
-215,Romania , Israel
-216,Romania , Moldova
-217,Romania , Serbia and Montenegro
-218,Romania , Turkey
-219,Slovak Republic , Estonia
-220,Slovak Republic , Israel
-221,Slovak Republic , Latvia
-222,Chile , Japan
-223,Turkey , Palestinian Authority
-224,Slovak Republic , Lithuania
-225,Slovak Republic , Romania Free Trade Agreement
-226,Slovak Republic , Turkey
-227,Slovenia , Bosnia and Herzegovina
-228,Slovenia , Croatia
-229,Slovenia , Estonia
-230,Slovenia , Former Yugoslav Republic of Macedonia
-231,Slovenia , Israel
-232,Slovenia , Latvia
-233,Slovenia , Lithuania
-234,Turkey , Tunisia
-235,South Africa , Southern Rhodesia Customs Union
-236,Turkey , Estonia
-237,Turkey , Latvia
-238,Turkey , Lithuania
-239,Turkey , Poland
-240,Turkey , Slovenia
-241,Yaoundé I,Yaoundé I
-242,Yaoundé II,Yaoundé II
-243,First Convention of Lomé,First Convention of Lomé
-244,Second Convention of Lomé,Second Convention of Lomé
-245,Economic Community of West African States (ECOWAS),Economic Community of West African States (ECOWAS)
-246,Third Convention of Lomé,Third Convention of Lomé
-247,Panama  , Dominican Republic
-248,EU , San Marino
-249,India , Afghanistan
-250,India , Nepal
-251,Guatemala , Chinese Taipei
-252,Panama , Chinese Taipei
-253,ASEAN , Australia 
-254,ASEAN , India
-255,Chile , Malaysia
-256,EFTA , Tunisia
-257,Iceland , China
-258,EFTA , GCC
-259,EU , Eastern and Southern Africa States Interim EPA
-260,"Hong Kong, China ", New Zealand
-261,New Zealand , Malaysia
-262,Peru , Singapore
-263,China , Singapore
-264,Turkey , Jordan
-265,Chile , Colombia
-266,Peru , Chile
-267,Japan , Mexico
-268,MERCOSUR , India
-269,El Salvador, Honduras 
-270,US , Colombia
-271,"Korea, Republic of ", Australia
-272,Turkey , Chile
-273,India , Malaysia
-274,Turkey , Albania
-275,Pakistan , Sri Lanka
-276,India , Bhutan
-277,EU , Bosnia and Herzegovina
-278,Panama , Central America
-279,Iceland , Faroe Islands
-280,Brunei Darussalam , Japan
-281,Canada , Jordan
-282,Ukraine , Azerbaijan
-283,Ukraine , Belarus
-284,Ukraine , Kazakhstan
-285,Ukraine , Former Yugoslav Republic of Macedonia
-286,Ukraine , Moldova
-287,Ukraine , Tajikistan
-288,Ukraine ,Turkmenistan
-289,Thailand , Australia
-290,Ukraine , Uzbekistan
-291,Common Economic Zone (CEZ),Common Economic Zone (CEZ)
-292,Ukraine , Russian Federation
-293,Pacific Island Countries Trade Agreement (PICTA),Pacific Island Countries Trade Agreement (PICTA)
-294,Agadir Agreement,Agadir Agreement
-295,EFTA , Albania
-296,EFTA , Serbia
-297,EFTA , Ukraine
-298,EU , CARIFORUM States EPA
-299,Canada , Panama
-300,US , Australia
-301,GUAM,GUAM
-302,EFTA , SACU
-303,Japan , Philippines
-304,EU , Côte d'Ivoire
-305,Chile , India
-306,Turkey , Serbia
-307,Switzerland , China
-308,Turkey , Georgia
-309,Mauritius , Pakistan
-310,Rep. of Korea , New Zealand
-311,ASEAN , China
-312,Peru ," Korea, Republic of"
-313,Colombia , Mexico
-314,Mexico , Uruguay
-315,Peru , Mexico
-316,China , New Zealand
-317,Peru , China
-318,Nicaragua , Chinese Taipei
-319,Canada , Peru
-320,EU , Central America
-321,China , Costa Rica
-322,EFTA , Chile
-323,Costa Rica , Singapore
-324,EU , Cameroon
-325,EU , Ukraine
-326,Chile , Viet Nam
-327,EFTA ," Hong Kong, China"
-328,EU , Colombia and Peru
-329,Canada , Ukraine
-330,"Korea, Republic of ",  Colombia
-331,China , Rep. of Korea
-332,"Korea, Republic of ", Turkey
-333,Central European Free Trade Agreement (CEFTA) 2006,Central European Free Trade Agreement (CEFTA) 2006
-334,EU , Egypt
-335,Turkey , Montenegro
-336,Rep. of Korea , Viet Nam
-337,EU , Serbia
-338,The Cross,Straits Economic Cooperation Framework Agreement (ECFA)
-339,"Korea, Republic of ", India
-340,EFTA , Bosnia and Herzegovina
-341,Costa Rica , Peru
-342,Panama , Peru
-343,"Hong Kong, China ", Chile
-344,Southern Common Market (MERCOSUR) , Southern African Customs Union (SACU)
-345,Southern African Development Community (SADC),Southern African Development Community (SADC)
-346,Colombia ," Northern Triangle (El Salvador, Guatemala, Honduras)"
-347,EU , Papua New Guinea / Fiji
-348,Japan , Peru
-349,Treaty on a Free Trade Area between members of the Commonwealth of Independent States (CIS),Treaty on a Free Trade Area between members of the Commonwealth of Independent States (CIS)
-350,Dominican Republic , Central America
-351,EFTA , Montenegro
-352,EFTA , Central America (Costa Rica and Panama)
-353,Mexico , Panama
-354,Turkey , Mauritius
-355,Turkey , Malaysia
-356,Armenia , Turkmenistan
-357,Russian Federation , Belarus
-358,Russian Federation , Republic of Moldova
-359,Russian Federation , Azerbaijan
-360,Russian Federation , Kazakhstan
-361,Russian Federation , Tajikistan
-362,Japan , Mongolia
-363,East African Community (EAC) , Accession of Burundi and Rwanda
-364,EU , Georgia
-365,EU , Rep. of  Moldova
-366,Russian Federation , Belarus 
-367,Armenia , Russian Federation
-368,Russian Federation , Serbia
-369,Russian Federation , Uzbekistan
-370,Russian Federation , Turkmenistan
-371,Mexico , Central America
-372,Ukraine , Montenegro
-373,India , Thailand
-374,New Zealand , Chinese Taipei
-375,El Salvador , Cuba
-376,Pacific Alliance,Pacific Alliance
-377,Singapore , Chinese Taipei
-378,Armenia , Moldova
-379,Eurasian Economic Union (EAEU),Eurasian Economic Union (EAEU)
-380,Eurasian Economic Union (EAEU) , Accession of Armenia
-381,Canada , Honduras
-382,Gulf Cooperation Council (GCC) , Singapore
-383,Eurasian Economic Union (EAEU) , Accession of the Kyrgyz Republic
-384,Turkey ," Moldova, Republic of"
-385,EFTA , Philippines
-386,Eurasian Economic Union (EAEU) , Viet Nam
-387,EU , Ghana
-388,Trans,Pacific Partnership
-389,Armenia , Kazakhstan
-390,Trans,Pacific Partnership
-391,Armenia , Ukraine
-392,"Korea, Republic of ", Chile
-393,Central European Free Trade Agreement (CEFTA) , Accession of Croatia
-394,Chile , Central America
-395,EFTA , Egypt
-396,China ," Macao, China"
-397,China ," Hong Kong, China"
-398,US , Singapore
-399,US , Chile
-400,Singapore , Australia
-401,Turkey , Bosnia and Herzegovina
-402,Turkey , Croatia
-403,EU , Lebanon
-404,EFTA , Singapore
-405,Canada , Costa Rica
-406,Southern African Customs Union (SACU),Southern African Customs Union (SACU)
-407,EU , Croatia
-408,EU , Jordan
-409,Japan , Singapore
-410,US , Jordan
-411,India , Sri Lanka
-412,EU , Mexico
-413,EFTA , Jordan
-414,EFTA , Croatia
-415,EU , Former Yugoslav Republic of Macedonia
-416,New Zealand , Singapore
-417,Chile , China
-418,EFTA , Mexico
-419,Chile , Mexico
-420,Israel , Mexico
-421,Georgia , Armenia
-422,Georgia , Azerbaijan
-423,Georgia , Kazakhstan
-424,Georgia , Russian Federation
-425,Georgia , Turkmenistan
-426,Georgia , Ukraine
-427,EFTA , Former Yugoslav Republic of Macedonia
-428,Trans,Pacific Strategic Economic Partnership
-429,Turkey , Former Yugoslav Republic of Macedonia
-430,Kyrgyz Republic , Armenia
-431,EU , South Africa
-432,EU , Morocco
-433,EU , Israel
-434,East African Community (EAC),East African Community (EAC)
-435,Economic and Monetary Community of Central Africa (CEMAC),Economic and Monetary Community of Central Africa (CEMAC)
-436,EFTA , Morocco
-437,West African Economic and Monetary Union (WAEMU),West African Economic and Monetary Union (WAEMU)
-438,Melanesian Spearhead Group (MSG),Melanesian Spearhead Group (MSG)
-439,India , Singapore
-440,Commonwealth of Independent States (CIS),Commonwealth of Independent States (CIS)
-441,Kyrgyz Republic , Kazakhstan
-442,EFTA , Palestinian Authority
-443,Kyrgyz Republic , Moldova
-444,Kyrgyz Republic , Russian Federation
-445,Kyrgyz Republic , Ukraine
-446,Kyrgyz Republic , Uzbekistan
-447,Eurasian Economic Community (EAEC),Eurasian Economic Community (EAEC)
-448,EU , Tunisia
-449,Turkey , Israel
+Source,Target
+Japan , Thailand
+Panama , Singapore
+EU , Andorra
+Canada , Chile
+EU , Palestinian Authority
+EU , Faroe Islands
+Canada , Israel
+European Economic Area (EEA),European Economic Area (EEA)
+Faroe Islands , Norway
+Faroe Islands , Switzerland
+Faeroe Islands , Iceland
+EU , Turkey
+EU , Albania
+EC Treaty,EC Treaty
+Common Market for Eastern and Southern Africa (COMESA),Common Market for Eastern and Southern Africa (COMESA)
+North American Free Trade Agreement (NAFTA),North American Free Trade Agreement (NAFTA)
+South Asian Preferential Trade Arrangement (SAPTA),South Asian Preferential Trade Arrangement (SAPTA)
+EFTA , Israel
+ASEAN Free Trade Area (AFTA),ASEAN Free Trade Area (AFTA)
+Andean Community (CAN),Andean Community (CAN)
+Economic Cooperation Organization (ECO),Economic Cooperation Organization (ECO)
+EFTA , Turkey
+Southern Common Market (MERCOSUR),Southern Common Market (MERCOSUR)
+Turkey , Syria
+Lao People's Democratic Republic , Thailand
+US , Israel
+Australia , New Zealand (ANZCERTA)
+Latin American Integration Association (LAIA),Latin American Integration Association (LAIA)
+South Pacific Regional Trade and Economic Cooperation Agreement (SPARTECA),South Pacific Regional Trade and Economic Cooperation Agreement (SPARTECA)
+EU , Syria
+Australia , Papua New Guinea (PATCRA)
+Asia Pacific Trade Agreement (APTA),Asia Pacific Trade Agreement (APTA)
+Caribbean Community and Common Market (CARICOM),Caribbean Community and Common Market (CARICOM)
+EU , Norway
+EFTA , Lebanon
+EU , Iceland
+EU , Switzerland 
+Global System of Trade Preferences among Developing Countries (GSTP),Global System of Trade Preferences among Developing Countries (GSTP)
+Protocol on Trade Negotiations (PTN),Protocol on Trade Negotiations (PTN)
+EU – Overseas Countries and Territories (OCT),EU – Overseas Countries and Territories (OCT)
+EFTA , Accession of Iceland
+Tripartite Agreement,Tripartite Agreement
+Central American Common Market (CACM),Central American Common Market (CACM)
+European Free Trade Association (EFTA),European Free Trade Association (EFTA)
+Pakistan , China
+Pan,Arab Free Trade Area (PAFTA)
+EU , Montenegro
+Australia , China
+Australia , Chile
+EFTA , Canada
+Canada , Colombia
+EU ," Korea, Republic of"
+Canada , Rep. of Korea
+ASEAN ," Korea, Republic of"
+Japan , Viet Nam
+Japan , Indonesia
+Gulf Cooperation Council (GCC),Gulf Cooperation Council (GCC)
+India , Japan
+Japan , Australia
+ASEAN , Japan
+EFTA , Colombia
+EFTA , Peru
+Japan , Switzerland
+US , Peru
+US , Panama
+US , Oman
+"Korea, Republic of ", US
+EU , Algeria
+Malaysia , Australia
+Pakistan , Malaysia
+South Asian Free Trade Agreement (SAFTA),South Asian Free Trade Agreement (SAFTA)
+Panama , Chile
+African Common Market,African Common Market
+Albania , Bosnia and Herzegovina
+Albania , Bulgaria
+Albania , Former Yugoslav Republic of Macedonia
+Albania , Moldova
+Albania , Romania
+US , Bahrain
+Albania , Serbia and Montenegro
+Albania , UNMIC/Kosovo
+Arab Common Market,Arab Common Market
+Arusha  Agreement,Arusha  Agreement
+Australia , New Zealand Free Trade Agreement
+Borneo Free Trade Area,Borneo Free Trade Area
+Bulgaria , Bosnia and Herzegovina
+Bulgaria , Estonia
+Bulgaria , Former Yugoslav Republic of Macedonia
+Bulgaria , Israel
+Costa Rica , Mexico
+Bulgaria , Latvia
+Bulgaria , Lithuania
+Bulgaria , Serbia and Montenegro
+Bulgaria , Slovak Republic Free Trade Agreement
+Bulgaria , Slovenia
+Bulgaria , Turkey
+Canada , US Free Trade Agreement (CUSFTA)
+Caribbean Free Trade Association (CARIFTA),Caribbean Free Trade Association (CARIFTA)
+Central American Free Trade Area,Central American Free Trade Area
+Central European Free Trade Agreement (CEFTA),Central European Free Trade Agreement (CEFTA)
+EFTA ," Korea, Republic of"
+Central European Free Trade Agreement (CEFTA) , Accession of Bulgaria
+Central European Free Trade Agreement (CEFTA) , Accession of Romania
+Central European Free Trade Agreement (CEFTA) , Accession of Slovenia
+Croatia , Albania
+Croatia , Bosnia and Herzegovina
+Croatia , Former Yugoslav Republic of Macedonia
+Croatia , Serbia and Montenegro
+Czech Republic , Bulgaria Free Trade Agreement
+Czech Republic , Estonia
+Czech Republic , Israel
+Egypt , Turkey
+Japan , Malaysia
+Czech Republic , Latvia
+Czech Republic , Lithuania
+Czech Republic , Romania Free Trade Agreement
+Czech Republic , Slovak Republic Customs Union
+Czech Republic , Slovenia
+Czech Republic , Turkey
+EC , Algeria
+EC , Austria Agreement of 1972
+EC , Bulgaria Europe Agreement
+EC , Bulgaria Interim Agreement
+Jordan , Singapore
+EC , Cyprus Association Agreement
+EC , Czech and Slovak Federal Republic Interim Agreement
+EC , Czech Republic Europe Agreement
+EC , Egypt Agreement of 1972
+EC , Egypt Cooperation Agreement
+EC , Estonia Agreement
+EC , Faeroe Islands Agreement of 1992
+EC , Finland Agreement
+EC , Greece Additional Protocol
+EEC , Greece Association Agreement
+Mexico , Northern Triangle
+EC , Hungary Europe Agreement
+EC , Hungary Interim Agreement of 1991
+EC , Israel Agreement of 1970
+EC , Latvia Agreement
+EC , Lebanon Cooperation Agreement
+EC , Lithuania
+EC , Malta Association Agreement
+EC , Morocco Association Agreement of 1969
+EC , Poland Europe Agreement
+EC , Poland Interim Agreement of 1991
+Dominican Republic , Central America 
+EC , Portugal Agreement of 1972
+EC , Romania Europe Agreement
+EC , Romania Interim Agreement
+EC , Slovak Republic Europe Agreement
+EC , Slovenia Cooperation Agreement
+EC , Slovenia Europe Agreement
+EC , Slovenia Interim Agreement
+EC , Spain Agreement of 1970
+EC , Sweden Agreement
+EC , Syria Interim Agreement of 1977
+"Korea, Republic of ", Singapore
+EC , Tunisia Association Agreement of 1969
+EC , Turkey Additional Protocol
+EEC , Turkey Association Agreement of 1963
+EC , Turkey Association Agreement of 1973
+EFTA , Bulgaria
+EFTA , Czechoslovakia
+EFTA , Estonia Free Trade Agreement
+EFTA , Hungary Agreement
+EFTA , Latvia
+EFTA , Lithuania
+Turkey , Morocco
+EFTA , Poland Agreement
+EFTA , Romania Free Trade Agreement
+EFTA , Slovenia
+EFTA , Spain Agreement
+El Salvador , Nicaragua Free Trade Area
+Equatorial Customs Union , Cameroon Association
+Estonia , Faeroe Islands
+Estonia , Latvia 
+Estonia , Norway Free Trade Agreement
+Estonia , Sweden Free Trade Agreement
+US , Morocco
+Estonia , Switzerland Free Trade Agreement
+Estonia , Ukraine
+Finland , Estonia Protocol
+Finland , Latvia Protocol
+Finland , Lithuania Protocol
+Former Yugoslav Republic of Macedonia  , Bosnia and Herzegovina
+Ghana , Upper Volta Trade Agreement
+Gulf Cooperation Council (GCC),Gulf Cooperation Council (GCC)
+Hungary , Estonia
+Hungary , Israel
+Thailand , New Zealand
+Hungary , Latvia
+Hungary , Lithuania
+Hungary , Slovenia Free Trade Agreement
+Hungary , Turkey
+Ireland , United Kingdom Free Trade Area
+Latin American Free Trade Area (LAFTA),Latin American Free Trade Area (LAFTA)
+Latvia , Norway Free Trade Agreement
+Latvia , Sweden Free Trade Agreement
+Latvia , Switzerland Free Trade Agreement
+Lithuania , Norway Free Trade Agreement
+Mexico , Nicaragua
+Lithuania , Sweden Free Trade Agreement
+Lithuania , Switzerland Free
+Moldova , Bosnia and Herzegovina
+Moldova , Bulgaria
+Moldova , Croatia
+Moldova , Former Yugoslav Republic of Macedonia
+Moldova , Serbia and Montenegro
+Poland , Faeroe Islands
+Poland , Israel
+Poland , Latvia
+EU , Chile
+Poland , Lithuania
+Romania , Bosnia and Herzegovina
+Romania , Former Yugoslav Republic of Macedonia
+Romania , Israel
+Romania , Moldova
+Romania , Serbia and Montenegro
+Romania , Turkey
+Slovak Republic , Estonia
+Slovak Republic , Israel
+Slovak Republic , Latvia
+Chile , Japan
+Turkey , Palestinian Authority
+Slovak Republic , Lithuania
+Slovak Republic , Romania Free Trade Agreement
+Slovak Republic , Turkey
+Slovenia , Bosnia and Herzegovina
+Slovenia , Croatia
+Slovenia , Estonia
+Slovenia , Former Yugoslav Republic of Macedonia
+Slovenia , Israel
+Slovenia , Latvia
+Slovenia , Lithuania
+Turkey , Tunisia
+South Africa , Southern Rhodesia Customs Union
+Turkey , Estonia
+Turkey , Latvia
+Turkey , Lithuania
+Turkey , Poland
+Turkey , Slovenia
+Yaoundé I,Yaoundé I
+Yaoundé II,Yaoundé II
+First Convention of Lomé,First Convention of Lomé
+Second Convention of Lomé,Second Convention of Lomé
+Economic Community of West African States (ECOWAS),Economic Community of West African States (ECOWAS)
+Third Convention of Lomé,Third Convention of Lomé
+Panama  , Dominican Republic
+EU , San Marino
+India , Afghanistan
+India , Nepal
+Guatemala , Chinese Taipei
+Panama , Chinese Taipei
+ASEAN , Australia 
+ASEAN , India
+Chile , Malaysia
+EFTA , Tunisia
+Iceland , China
+EFTA , GCC
+EU , Eastern and Southern Africa States Interim EPA
+"Hong Kong, China ", New Zealand
+New Zealand , Malaysia
+Peru , Singapore
+China , Singapore
+Turkey , Jordan
+Chile , Colombia
+Peru , Chile
+Japan , Mexico
+MERCOSUR , India
+El Salvador, Honduras 
+US , Colombia
+"Korea, Republic of ", Australia
+Turkey , Chile
+India , Malaysia
+Turkey , Albania
+Pakistan , Sri Lanka
+India , Bhutan
+EU , Bosnia and Herzegovina
+Panama , Central America
+Iceland , Faroe Islands
+Brunei Darussalam , Japan
+Canada , Jordan
+Ukraine , Azerbaijan
+Ukraine , Belarus
+Ukraine , Kazakhstan
+Ukraine , Former Yugoslav Republic of Macedonia
+Ukraine , Moldova
+Ukraine , Tajikistan
+Ukraine ,Turkmenistan
+Thailand , Australia
+Ukraine , Uzbekistan
+Common Economic Zone (CEZ),Common Economic Zone (CEZ)
+Ukraine , Russian Federation
+Pacific Island Countries Trade Agreement (PICTA),Pacific Island Countries Trade Agreement (PICTA)
+Agadir Agreement,Agadir Agreement
+EFTA , Albania
+EFTA , Serbia
+EFTA , Ukraine
+EU , CARIFORUM States EPA
+Canada , Panama
+US , Australia
+GUAM,GUAM
+EFTA , SACU
+Japan , Philippines
+EU , Côte d'Ivoire
+Chile , India
+Turkey , Serbia
+Switzerland , China
+Turkey , Georgia
+Mauritius , Pakistan
+Rep. of Korea , New Zealand
+ASEAN , China
+Peru ," Korea, Republic of"
+Colombia , Mexico
+Mexico , Uruguay
+Peru , Mexico
+China , New Zealand
+Peru , China
+Nicaragua , Chinese Taipei
+Canada , Peru
+EU , Central America
+China , Costa Rica
+EFTA , Chile
+Costa Rica , Singapore
+EU , Cameroon
+EU , Ukraine
+Chile , Viet Nam
+EFTA ," Hong Kong, China"
+EU , Colombia and Peru
+Canada , Ukraine
+"Korea, Republic of ",  Colombia
+China , Rep. of Korea
+"Korea, Republic of ", Turkey
+Central European Free Trade Agreement (CEFTA) 2006,Central European Free Trade Agreement (CEFTA) 2006
+EU , Egypt
+Turkey , Montenegro
+Rep. of Korea , Viet Nam
+EU , Serbia
+The Cross,Straits Economic Cooperation Framework Agreement (ECFA)
+"Korea, Republic of ", India
+EFTA , Bosnia and Herzegovina
+Costa Rica , Peru
+Panama , Peru
+"Hong Kong, China ", Chile
+Southern Common Market (MERCOSUR) , Southern African Customs Union (SACU)
+Southern African Development Community (SADC),Southern African Development Community (SADC)
+Colombia ," Northern Triangle (El Salvador, Guatemala, Honduras)"
+EU , Papua New Guinea / Fiji
+Japan , Peru
+Treaty on a Free Trade Area between members of the Commonwealth of Independent States (CIS),Treaty on a Free Trade Area between members of the Commonwealth of Independent States (CIS)
+Dominican Republic , Central America
+EFTA , Montenegro
+EFTA , Central America (Costa Rica and Panama)
+Mexico , Panama
+Turkey , Mauritius
+Turkey , Malaysia
+Armenia , Turkmenistan
+Russian Federation , Belarus
+Russian Federation , Republic of Moldova
+Russian Federation , Azerbaijan
+Russian Federation , Kazakhstan
+Russian Federation , Tajikistan
+Japan , Mongolia
+East African Community (EAC) , Accession of Burundi and Rwanda
+EU , Georgia
+EU , Rep. of  Moldova
+Russian Federation , Belarus 
+Armenia , Russian Federation
+Russian Federation , Serbia
+Russian Federation , Uzbekistan
+Russian Federation , Turkmenistan
+Mexico , Central America
+Ukraine , Montenegro
+India , Thailand
+New Zealand , Chinese Taipei
+El Salvador , Cuba
+Pacific Alliance,Pacific Alliance
+Singapore , Chinese Taipei
+Armenia , Moldova
+Eurasian Economic Union (EAEU),Eurasian Economic Union (EAEU)
+Eurasian Economic Union (EAEU) , Accession of Armenia
+Canada , Honduras
+Gulf Cooperation Council (GCC) , Singapore
+Eurasian Economic Union (EAEU) , Accession of the Kyrgyz Republic
+Turkey ," Moldova, Republic of"
+EFTA , Philippines
+Eurasian Economic Union (EAEU) , Viet Nam
+EU , Ghana
+Trans,Pacific Partnership
+Armenia , Kazakhstan
+Trans,Pacific Partnership
+Armenia , Ukraine
+"Korea, Republic of ", Chile
+Central European Free Trade Agreement (CEFTA) , Accession of Croatia
+Chile , Central America
+EFTA , Egypt
+China ," Macao, China"
+China ," Hong Kong, China"
+US , Singapore
+US , Chile
+Singapore , Australia
+Turkey , Bosnia and Herzegovina
+Turkey , Croatia
+EU , Lebanon
+EFTA , Singapore
+Canada , Costa Rica
+Southern African Customs Union (SACU),Southern African Customs Union (SACU)
+EU , Croatia
+EU , Jordan
+Japan , Singapore
+US , Jordan
+India , Sri Lanka
+EU , Mexico
+EFTA , Jordan
+EFTA , Croatia
+EU , Former Yugoslav Republic of Macedonia
+New Zealand , Singapore
+Chile , China
+EFTA , Mexico
+Chile , Mexico
+Israel , Mexico
+Georgia , Armenia
+Georgia , Azerbaijan
+Georgia , Kazakhstan
+Georgia , Russian Federation
+Georgia , Turkmenistan
+Georgia , Ukraine
+EFTA , Former Yugoslav Republic of Macedonia
+Trans,Pacific Strategic Economic Partnership
+Turkey , Former Yugoslav Republic of Macedonia
+Kyrgyz Republic , Armenia
+EU , South Africa
+EU , Morocco
+EU , Israel
+East African Community (EAC),East African Community (EAC)
+Economic and Monetary Community of Central Africa (CEMAC),Economic and Monetary Community of Central Africa (CEMAC)
+EFTA , Morocco
+West African Economic and Monetary Union (WAEMU),West African Economic and Monetary Union (WAEMU)
+Melanesian Spearhead Group (MSG),Melanesian Spearhead Group (MSG)
+India , Singapore
+Commonwealth of Independent States (CIS),Commonwealth of Independent States (CIS)
+Kyrgyz Republic , Kazakhstan
+EFTA , Palestinian Authority
+Kyrgyz Republic , Moldova
+Kyrgyz Republic , Russian Federation
+Kyrgyz Republic , Ukraine
+Kyrgyz Republic , Uzbekistan
+Eurasian Economic Community (EAEC),Eurasian Economic Community (EAEC)
+EU , Tunisia
+Turkey , Israel
